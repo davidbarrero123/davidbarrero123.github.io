@@ -211,4 +211,9 @@ box-shadow: 0 0 5px #6dcff680;
       }:has(> tool-tip):hover tool-tip{
         opacity: 1;
 
+      }.logoweb{
+        background-image: url("/logoweb.jpeg");
+        width: 700px;
+        height: 900px;
+        align-items: center;
       }
