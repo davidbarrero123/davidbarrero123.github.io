@@ -38,4 +38,3 @@ element.addEventListener("keypress", function(event) {
  		event.preventDefault();
      }
 });
-
